@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<AbsoluteLayout android:id="@+id/AbsoluteLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"><EditText android:layout_width="wrap_content" android:layout_y="37dip" android:id="@+id/EditText01" android:layout_height="wrap_content" android:layout_x="90dip" android:text="number1"></EditText>
+<Button android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="+" android:layout_y="220dip" android:layout_x="40dip"></Button>
+<Button android:id="@+id/Button02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:layout_y="220dip" android:layout_x="100dip"></Button>
+<Button android:id="@+id/Button03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="*" android:layout_y="220dip" android:layout_x="160dip"></Button>
+<Button android:id="@+id/Button04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="/" android:layout_y="220dip" android:layout_x="220dip"></Button>
+<EditText android:layout_width="wrap_content" android:id="@+id/EditText02" android:layout_height="wrap_content" android:layout_x="90dip" android:layout_y="90dip" android:text="number2"></EditText>
+<EditText android:layout_width="wrap_content" android:id="@+id/EditText03" android:layout_height="wrap_content" android:layout_x="90dip" android:layout_y="144dip" android:text="sum"></EditText>
+</AbsoluteLayout>
